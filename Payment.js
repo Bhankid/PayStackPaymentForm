@@ -1,4 +1,4 @@
-const api_key = "pk_test_f446c7c77b0aaddbfb9292e3be1b657392ae63a5";
+// const api_key = "pk_test_f446c7c77b0aaddbfb9292e3be1b657392ae63a5";
 
 // Get the form and pay button elements
 const form = document.querySelector("form");
